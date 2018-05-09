@@ -1,0 +1,23 @@
+{
+  "name": "AgaBot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "turgut",
+  "license": "ISC",
+  "dependencies": {
+    "autorun": "^1.0.3",
+    "chalk": "^2.4.1",
+    "cleverbot-node": "^0.3.11",
+    "discord.js": "^11.3.2",
+    "error": "^7.0.2",
+    "moment": "^2.22.1",
+    "moment-duration-format": "^2.2.2"
+  },
+  "devDependencies": {
+    "@angular/cli": "^6.0.0"
+  }
+}
